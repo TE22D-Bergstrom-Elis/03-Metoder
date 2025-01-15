@@ -122,7 +122,7 @@ public class Main {
                 if (val >= 1 && val <= ordVal.length) {
                     braVal = true;
                 } else {
-                    System.out.println("ogiltigt val, försök igen ");
+                     System.out.println("ogiltigt val, försök igen ");
                 }
             }
             else
